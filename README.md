@@ -1,7 +1,3 @@
-# Food_website
-
-Project Link :- https://srivastavafe.000webhostapp.com/
-
 ## Getting Started
 
 Follow these steps to clone the repository, set up the database using XAMPP, and run the project in Visual Studio Code.
